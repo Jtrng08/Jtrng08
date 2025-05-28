@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm John Truong
 
+I'm a CSUN student expected to graduate with my B.S in Computer Engineering in Spring 2025.
+
 Welcome to my GitHub profile! Here's a quick look at some of the projects I've worked on, as well as those I'm currently working on.
 
 ## Featured Projects
