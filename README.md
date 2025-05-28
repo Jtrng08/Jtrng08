@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here's a quick look at some of the projects I've worked on, as well as those I'm currently working on.
 
 ## Featured Projects
-- [🔐 Secure Web Server and Login System ](https://github.com/Jtrng08/Web-Page-Server-and-Login-System))
+- [🔐 Secure Web Server and Login System ](https://github.com/Jtrng08/Web-Page-Server-and-Login-System)
   - A secure LAMP-based login system with Snort & IPTables automation.
 - [ Tic-Tac-Toe Game through MCU ](https://github.com/Jtrng08/ECE425-Labs)
   - Compilation of all ECE 425 Labs completed. As well as the Tic-Tac-Toe game using the provided microcontroller.
